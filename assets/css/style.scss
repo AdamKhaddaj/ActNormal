@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
-$background-color: #fce303;
+body {
+  background: #fce303;
+}
